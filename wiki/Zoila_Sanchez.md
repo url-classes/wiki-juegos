@@ -10,3 +10,8 @@ Candy Crush Saga es un videojuego multidioma desarrollado por King, originalment
 
 Me gusta por que ayuda a visualizar las diferentes opciones y a tomar decisiones pacientemente
 
+## Parchis
+
+El parchís es un juego de mesa derivado del pachisi y similar al ludo, al parqués y al parcheesi. Es muy popular en España y Latinoamérica, como en Colombia, Ecuador, Honduras y República Dominicana.​Es un juego de 2 a 4 jugadores aunque hay versiones para más jugadores.
+
+Me gusta por la aleatoridad de las opciones y por que se puede jugar con otras personas
