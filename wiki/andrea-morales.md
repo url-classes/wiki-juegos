@@ -9,3 +9,8 @@ en abril de 2018, Twin Galaxies borró todas las puntuaciones de Mitchell tras c
 usó emulación en lugar de las máquinas arcade originales.
 
 
+#### Control 
+Control es un videojuego jugado desde la perspectiva de tercera persona,2​ y cuenta con algunos elementos de Quantum Break.
+En el juego, los jugadores pelean contra los enemigos usando la pistola del director, un arma de fuego que puede cambiar de forma.
+La pistola también puede ser actualizada para mejorar su eficiencia de combate.4​ Adicionalmente, los jugadores tendrán acceso a varias habilidades supernaturales y telepáticas.
+
