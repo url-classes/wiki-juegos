@@ -4,4 +4,9 @@ La saga de videojuegos Mario Kart es una saga derivada de la franquicia de Mario
 
 Me gusta este videojuego porque son hay pistas diferentes y hay diferentes niveles o modos para poder realizar cada carrera
 
+## Candy Crush
+
+Candy Crush Saga es un videojuego multidioma desarrollado por King, originalmente disponible como una aplicación de Facebook y adaptado para los sistemas operativos Android, iOS y Windows Phone.
+
+Me gusta por que ayuda a visualizar las diferentes opciones y a tomar decisiones pacientemente
 
