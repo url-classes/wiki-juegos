@@ -12,3 +12,10 @@ de los videojuegos Pokémon Rojo y Azul, lanzados en 1996.
 
 Este es uno de mis juegos favoritos porque fue de los primeros que tuve la oportunidad de jugar.
 
+## Genshin Impact
+
+Genshin Impact es un juego de acción ARPG de mundo abierto free-to-play con una mecánica de monetización de Gacha 
+para conseguir elementos adicionales como personajes especiales y armas.
+
+Este se ha vuelto uno de mis juegos favoritos porque me atrapó completamente con la histpria y el modo de juego.
+
