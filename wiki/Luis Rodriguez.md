@@ -19,3 +19,9 @@ para conseguir elementos adicionales como personajes especiales y armas.
 
 Este se ha vuelto uno de mis juegos favoritos porque me atrapó completamente con la histpria y el modo de juego.
 
+## Valorant
+
+Valorant es un videojuego de disparos en primera persona multijugador gratuito desarrollado y publicado por Riot Games.
+El juego se anunció por primera vez con el nombre en clave Project A en octubre de 2019.
+
+Este juego me ha gustado porque lo juego en compñía de mis amigos.
