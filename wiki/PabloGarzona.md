@@ -3,9 +3,5 @@
 Me gusta las redes 
 
 # Legend of Zelda
-sfsdfsddfsf
-# Call Of Duty
-sdfsdffsasdf
+Zelda se trata de un juego de mundo abierto el cual, pelea con mounstros y lucha para salvar a la princesa
 
-# Need For Speed
-sdfsdf
