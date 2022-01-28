@@ -13,3 +13,8 @@ usó emulación en lugar de las máquinas arcade originales.
 Control es un videojuego jugado desde la perspectiva de tercera persona,2​ y cuenta con algunos elementos de Quantum Break.
 En el juego, los jugadores pelean contra los enemigos usando la pistola del director, un arma de fuego que puede cambiar de forma.
 La pistola también puede ser actualizada para mejorar su eficiencia de combate.4​ Adicionalmente, los jugadores tendrán acceso a varias habilidades supernaturales y telepáticas.
+
+#### Tetris 
+
+Distintos tetriminos, figuras geométricas compuestas por cuatro bloques cuadrados unidos de forma ortogonal, las cuales se generan de una zona que ocupa 5x5 bloques en el área superior de la pantalla.
+No hay consenso en cuanto a las dimensiones para el área del juego, variando en cada versión.
