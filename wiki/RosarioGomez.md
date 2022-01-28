@@ -4,3 +4,5 @@ La trama del juego consiste en un grupo de tripulantes a bordo de una nave espac
 
 Friday Night Funkin' 
 es un videojuego de ritmo lanzado el 1 de noviembre de 2020 desarrollado por el programador canadiense Cameron Taylor o ninjamuffin99. Fue lanzado en Newgrounds y en Itch.io.
+
+Minecraft es un videojuego de construcción de tipo «mundo abierto» o sandbox creado originalmente por el sueco Markus Persson, ​ y posteriormente desarrollado por Mojang Studios.​
